@@ -1,7 +1,4 @@
 
-//Name: Hetarth Parikh
-//Unit,Lesson,Name of Assignment: Unit 1 Lesson 10, summative Calculator Assignment
-//Date of Completion: September 20th 2024
 //Description: This is a program of a calculator which you can use to multiply
 //add, subtract, divide,use square root, powers
 //and toggle negatives and can even see your calculation history!
